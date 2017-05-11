@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="support-media-compat-25.0.0">
+    <CLASSES>
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/4bb42fe6392eb4fb47e1530bb9bbcd484024f377/output/res" />
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/4bb42fe6392eb4fb47e1530bb9bbcd484024f377/output/jars/libs/internal_impl-25.0.0.jar!/" />
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/4bb42fe6392eb4fb47e1530bb9bbcd484024f377/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/SDK/extras/android/m2repository/com/android/support/support-media-compat/25.0.0/support-media-compat-25.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

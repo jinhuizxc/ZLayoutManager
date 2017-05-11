@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.2.1">
+    <CLASSES>
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/cd8876b2b917d471ef423de9ecb990456d392aa6/output/res" />
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/cd8876b2b917d471ef423de9ecb990456d392aa6/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/SDK/extras/android/m2repository/com/android/databinding/library/1.2.1/library-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
